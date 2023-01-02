@@ -1,19 +1,3 @@
-name: "cpu_features"
-description: "A cross platform C99 library to get cpu features at runtime."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/google/cpu_features"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/google/cpu_features.git"
-  }
-  version: "v0.6.0"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 10
-    day: 15
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c9562853c9ff2642ee112c7d550f00c19490f5a68b282d259cde3b7af9219d
+size 388

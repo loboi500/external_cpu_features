@@ -1,7 +1,3 @@
-# ===== googletest =====
-
-git_repository(
-    name = "com_google_googletest",
-    remote = "https://github.com/google/googletest.git",
-    commit = "c3f65335b79f47b05629e79a54685d899bc53b93",
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:75a21a9b4401e36734a343ccc7da1e3ac8e8597994e337796da21d5edae8ae72
+size 194
